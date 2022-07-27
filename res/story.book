@@ -1,0 +1,13 @@
+#book
+>You're sitting at home.
+*Take your wallet.^5
+*Do nothing.^7
+>You are hungry, and decide to go to the bakery.
+*Head for the door.^9
+>You are hungry, and decide to go to the bakery.
+*Head for the door.^11
+>You have bought bread and are going back home.
+*Go home.^13
+>You didn't take your wallet, and decide to go back home empty-handed.
+*Go home.^13
+#end
